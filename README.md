@@ -1,4 +1,8 @@
-# MEEOOOW MAAOW MEEOW MRRRRRR MRROOWW MEEOOW UWU MAAOOOWWW HAIII MEEOWWW >W<
+## MintoFox
+MEEOOOW MAAOW MEEOW MRRRRRR MRROOWW MEEOOW UWU MAAOOOWWW HAIII MEEOWWW >W<
+
+[![Profile views :3](https://komarev.com/ghpvc/?username=MintoFox&color=67bd7a&label=Profile+views+:3)](https://github.com/MintoFox/)
+
 
 <!--
 **MintoFox/MintoFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
